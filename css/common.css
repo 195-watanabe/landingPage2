@@ -573,13 +573,21 @@ body.nav-open header .drawer::after {
     width: 80%;
   }
 
+  .faq .txt {
+    padding: 60px 30px;
+  }
+
   .faq .more {
     width: unset;
     margin: 0 25%;
   }
 
   #news {
-    padding: 30px 0;
+    padding:30px 0;
+  }
+
+  .news .txt {
+    padding: 60px 30px;
   }
 
   .contact_btn .btn{
